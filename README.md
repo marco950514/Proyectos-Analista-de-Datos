@@ -1,8 +1,8 @@
-##** Hola soy Marco! encantado de que pases por aquí
+##*Hola soy Marco! encantado de que pases por aquí  
 Tengo algunos proyectos que te van a parecer interesantes.
 
-#Proyectos-Analista-de-Datos
-Proyectos del programa educativo analista de datos de TripleTen
+#Proyectos-Analista-de-Datos  
+Proyectos del programa educativo analista de datos de TripleTen  
 
 
 -- Proyecto Final: 
@@ -11,7 +11,7 @@ Identificación de Operadores Ineficaces en CallMeMaybe
 • Visualicé métricas clave usando Seaborn y Plotly para detectar patrones de ineficiencia operacional.
 • Apliqué pruebas estadísticas (Levene, T-test, Mann-Whitney) para validar diferencias entre operadores eficaces e ineficaces.
 
-→ Logros: Se identificaron operadores críticos con hasta 15% más llamadas perdidas; el modelo permitió generar alertas tempranas.
+→ Logros: Se identificaron operadores críticos con hasta 15% más llamadas perdidas; el modelo permitió generar alertas tempranas.  
 
 
 
@@ -21,7 +21,7 @@ Identificación de Operadores Ineficaces en CallMeMaybe
 • Exploré factores críticos de abandono como baja frecuencia de visitas, contratos cortos y poca interacción con promociones.
 • Visualicé hallazgos con Matplotlib y Seaborn; utilicé pruebas estadísticas y correlaciones para validar hipótesis clave.
 
-→ Logros: El modelo permitió identificar a los clientes con alto riesgo de cancelación con una precisión superior.
+→ Logros: El modelo permitió identificar a los clientes con alto riesgo de cancelación con una precisión superior.  
 
 
 -- Proyecto (Sprint 11): Análisis del Embudo de Conversión y Test A/A/B en App de E-commerce Alimenticio 
@@ -31,4 +31,4 @@ Identificación de Operadores Ineficaces en CallMeMaybe
 • Apliqué pruebas estadísticas (chi-cuadrado, T-test, análisis de varianza) para confirmar o rechazar hipótesis de diferencias entre grupos.
 • Visualicé los resultados con Seaborn y Plotly, y documenté hallazgos relevantes en un reporte claro para las áreas de producto y UX.
 
-→ Logros: Identifiqué una caída del 14% en la conversión entre el registro y visita al producto  y la primera compra; el test A/A/B mostró que la nueva fuente no afectaba significativamente el comportamiento de compra, lo que permitió a diseño implementar el cambio sin riesgo para la tasa de conversión.
+→ Logros: Identifiqué una caída del 14% en la conversión entre el registro y visita al producto  y la primera compra; el test A/A/B mostró que la nueva fuente no afectaba significativamente el comportamiento de compra, lo que permitió a diseño implementar el cambio sin riesgo para la tasa de conversión.  
